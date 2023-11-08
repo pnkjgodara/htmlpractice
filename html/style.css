@@ -1,0 +1,46 @@
+#box{
+    background-color: aqua;
+    /* color: brown; */
+}
+.h{
+   color: rgb(84, 210, 30);
+}
+.h3{
+    color: brown;
+}
+#b1{
+    background-color: aquamarine;
+    color: black;
+    border: 2px solid;
+    border-radius: 12px;
+    padding: 6px;
+   margin-right: 5%;
+}
+#b2{
+    background-color: blueviolet;
+    color: black;
+    border: 3px;
+    border-radius: 15px;
+    padding: 8px;
+    margin-right:5% ;
+
+}
+#b3{
+    background-color: aliceblue;
+    color:solid black;
+   border-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  margin-right:5% ;
+}
+#b4{
+    background-color:rgba(196, 35, 225, 0.629)  ;
+    color: 2px solid black;
+    border-radius: 5px;
+    margin-right:5% ;
+    height: 50px
+
+    
+;
+   
+}

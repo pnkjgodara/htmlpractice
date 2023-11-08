@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(220, 236, 231);
+    color: rgb(27, 25, 24);
+    text-align: center;
+    font-size: 40px;
+}
+#d1:hover{
+          width: 200px;
+          height: 50px;
+          background-color: aqua;
+          color: red;
+          text-align: center;
+          display: inline;
+}
+#d2:hover{
+         width: 200px;
+         height: 50px;
+         background-color: aquamarine;
+         color: blueviolet;
+         display: inline;
+}
+
+
+
+
+
+

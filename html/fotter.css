@@ -1,0 +1,18 @@
+#n1{
+    height: 60px;
+   background-color: black;
+   border:5px solid white ;
+  
+}
+button{
+    background-color: rgb(204, 158, 31);
+}
+#logo{
+    color: rgb(204, 158, 31) ;
+    font-size: 25px;
+   
+}
+a{
+    margin-right: 200px;
+    color: aliceblue;
+}

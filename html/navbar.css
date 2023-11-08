@@ -1,0 +1,90 @@
+ *{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#n1{
+    height: 60px;
+   background-color: black;
+   border:5px solid white ;
+}
+#b1{
+    background-color: rgb(204, 158, 31);
+}
+#logo{
+    color: rgb(204, 158, 31) ;
+    font-size: 25px;
+   
+}
+a{
+    margin-right: 200px;
+}
+#d1{
+    width: 1000px;
+    height: 40px;
+    background-color: black;
+    border-right: 2px solid white;
+    
+  
+
+}
+button{
+    background-color: black;
+    border-color: white;
+    margin: 0%;
+    padding: 5px 5px 5px 5px;
+    width: 100px;
+    
+
+} 
+#d2{
+    background-color: brown;
+    font-size: 20px;
+   
+    width: 500px;
+    height: 30px;
+    margin: 50px ;
+    text-align: center;
+    border :3px solid green
+    
+}
+#d3{
+    background-color: orange;
+    font-size: 15px;
+    width: 500px;
+    height: 250px;
+    margin:50px ;
+    text-align: center;
+    border:3px solid red;
+
+}
+#d4{
+    background-color: yellow;
+    font-size: 20px;
+    color: red;
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+    text-align: center;
+    border: 3px dotted red;
+    border-radius: 20px;
+
+}
+#d5{
+    background-color: rgba(186, 186, 30, 0.7);
+    font-size: 25px;
+
+    color: blue;
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+    border-radius: 20px;
+    box-shadow: 1px 10px 10px 1px rgb(211, 170, 170);
+    text-align: center;
+}
+body{
+    background-image: url(.//htmlphoto/Premium\ AI\ Image\ _\ A\ nebula\ in\ the\ universe\ beautiful\ deep\ space\ wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

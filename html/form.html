@@ -3,21 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>form</title>
+    <style>
+        #myHeader{
+            background-color: aquamarine;
+            border: 2xp salmon;
+            padding: 10px;
+            
+        } 
+        .main{
+            background-image: url(../html/htmlphoto/buddha.jpeg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            border: 4px double ;
+        }               
+    </style>
+   
 </head>
-<body>
+<body >
+ <main >
+   
+    <h1 id="myHeader">Rsulte Form For  Bordclass</h1>
+    <hr><hr>
     <form action="/action.php">
         <input type="text" placeholder="username">
-        <br>
+        <br><br>
+        <input type="id" placeholder="id">
+        <br><br>
+         <input type="roll no." placeholder="roll no.">
+         <br><br>
+         <input type="email" placeholder="email">
+         <br><br>
+
         <input type="password" placeholder="password">
-        <br>
+        <br><br>
+
     <label for="101">
-        <input type="radio"value="class XI" name="class" id="101">class XI
+        <input type="radio"value="class X" name="class" id="101">class X
     </label>
     <br>
      <label for="102">
         <input type="radio"value="class XII" name="class" id="102">class XII
     </label>
+    <br><br>
+    <input type="capcha" placeholder="capcha">
+    <br><br>
+    <input type="submit" placeholder="submit" style="background-color: rgb(43, 206, 215);">
+    <br><br>
+    <input type="reset" placeholder="reset" style="background-color: rgba(246, 133, 95, 0.319);">
     </form>
+    <br><br>
+    <hr>
+    <p>Go to govt site of HBSE</p>
+    <p>Click to check result</p>
+    <br>
+    <a href="www.haryana bord of school education.in">www.haryana bord of school education.in </a>
+    </main>
 </body>
 </html>
