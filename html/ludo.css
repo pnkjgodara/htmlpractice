@@ -1,0 +1,131 @@
+.ludo{
+    height: 1200px;
+    width: 1200px;
+    border: 2px solid black;
+    
+}
+.box1{
+    height: 350px;
+    width: 350px;
+    border: 50px solid red;
+    display: inline-block;
+    position: absolute;   
+}
+
+.s1{
+    height: 100px;
+    width: 100px;
+    border: 4px solid rosybrown;
+    display: inline-block;
+    position: relative;
+    background-color: red;
+    margin: 30px;
+}
+
+.box2{
+    height: 350px;
+    width: 350px;
+    border: 50px solid yellow;
+    display:inline-block ;
+   position: absolute;
+    top: 760px; 
+    left: 760px; ;
+   
+}
+
+.s2{
+    height: 100px;
+    width: 100px;
+    border: 4px solid yellowgreen;
+    display: inline-block;
+    position: relative;
+    background-color: yellow;
+    margin: 30px;
+}
+
+.box3{
+    height: 350px;
+    width: 350px;
+    border: 50px solid green;
+    display: inline-block;
+    position: absolute;
+    left: 760px;
+    top: 10px;
+}
+
+.s3{
+    height: 100px;
+    width: 100px;
+    border: 4px solid gray;
+    display: inline-block;
+    position: relative;
+    background-color: green;
+    margin: 30px;
+}
+
+.box4{
+    height: 350px;
+    width: 350px;
+    border: 50px solid blue;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 760px;
+}
+
+.s4{
+    height: 100px;
+    width: 100px;
+    border: 4px solid blueviolet;
+    display: inline-block;
+    position: relative;
+    background-color: blue;
+    margin: 30px;
+}
+.box5{
+    height:0 px;
+    width:0 px;
+   border-top: 150px solid green;
+   border-left: 150px solid red ;
+   border-right: 150px solid yellow;
+   border-bottom: 151px solid blue;
+   background-color: blueviolet;
+    position: absolute;
+   top: 460px;
+    left: 460px;
+}
+td{
+
+    background-color: aliceblue;
+    height: 70px;
+    width: 95px;
+    border: 1px solid black;
+    
+    
+}
+.t1{
+    position: absolute;
+    top: 9px;
+    left: 459px;
+   
+}
+.t2{
+    position: absolute;
+    top: 760px;
+    left: 459px; ;
+}
+.t3{
+    position: absolute;
+    rotate: 90deg;
+    left: 833px;
+    top: 384px;
+}
+.t4{
+    position: absolute;
+    rotate: 90deg;
+    top: 384px; 
+    left: 84px;
+}
+i{
+    position: sticky;
+}
